@@ -1,0 +1,55 @@
+h1{
+    border-style: dotted;
+    border-width: 5px;
+    border-color: antiquewhite;
+
+}
+h2{
+    border-style: dashed;
+    border-width: thick;
+    border-color: aqua;
+
+}
+h3{
+    border-style:solid;
+    border-width: medium;
+    border-color: aquamarine;
+}
+h4{
+    border-style: double;
+    border-width: 5px 20px;
+    border-color: blue green;
+}
+h5{
+    border-style: groove;
+    border-width: 5px 30px 45px;
+    border-color:pink yellow green;
+}
+h6{
+    border-style:ridge;
+    border-width: 5px 30px 45px 30px;
+    border-color:pink yellow green red;
+
+}
+p{
+    border-style:inset;
+    border-width: 5px;
+    border-color:pink ;
+}
+a{
+    border-style:outset;
+    border-width: 5px;
+    border-color: yellow; 
+
+}
+b{
+    border-style:hidden;
+    border-width: 5px;
+    border-color: green;
+}
+li{
+    border-style:dotted dashed solid double;
+    border-width: 5px;
+    border-color: red;
+
+}
