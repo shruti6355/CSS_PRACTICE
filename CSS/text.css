@@ -1,0 +1,79 @@
+.hello1
+{
+text-align: center;
+height: 100px;
+width: 100px;
+background-color: pink;
+padding: 20px;
+margin: 20px;
+direction:rtl;
+unicode-bidi: bidi-override;
+text-decoration-line:underline;
+text-decoration-color: blue;
+text-decoration-style: dashed;
+text-decoration-thickness: 2px;
+text-transform: capitalize;
+font-style: italic;
+
+}
+.hello2
+{
+text-align:end;
+height: 100px;
+width: 100px;
+background-color: pink;
+padding: 20px;
+margin: 20px;
+text-decoration-line:underline;
+text-decoration-color: aqua;
+text-decoration-style: dotted;
+text-decoration-thickness: auto;
+text-transform: lowercase;
+font-style: normal;
+
+
+}.hello3
+{
+text-align:justify;
+height: 100px;
+width: 100px;
+background-color: pink;
+padding: 20px;
+margin: 20px;
+text-decoration-line: line-through;
+text-decoration-color: aquamarine;
+text-decoration-style: double;
+text-decoration-thickness: 5px;
+text-transform: uppercase;
+font-style: oblique;
+
+
+}.hello4
+{
+text-align:left;
+height: 100px;
+width: 100px;
+background-color: pink;
+padding: 20px;
+margin: 20px;
+text-decoration-line:underline;
+text-decoration-color: beige;
+text-decoration-style: solid;
+text-decoration-thickness: 8px;
+
+
+}.hello5
+{
+text-align:right;
+height: 100px;
+width: 100px;
+background-color: pink;
+padding: 20px;
+margin: 20px;
+text-decoration-line: overline;
+text-decoration-color: blue;
+text-decoration-style: wavy;
+text-decoration-thickness: 25%;
+
+
+}
