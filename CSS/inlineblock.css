@@ -1,0 +1,38 @@
+.p1
+{
+    display: inline;
+    width: 100px;
+    height: 100px;
+    padding: 4px;
+    background-color: palevioletred;
+    border: 1px solid blue;
+
+}
+
+
+.a1
+{
+    display: block;
+    width: 100px;
+    height: 100px;
+    padding: 4px;
+    background-color: palevioletred;
+    border: 1px solid blue;
+
+}
+
+
+.b1
+{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 4px;
+    background-color: palevioletred;
+    border: 1px solid blue;
+
+}
+
+div{
+    margin-bottom: 100px;
+}
