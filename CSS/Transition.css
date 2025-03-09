@@ -1,0 +1,63 @@
+.widthincrese{
+    height: 200px;
+    width: 200px;
+    background-color:red;
+    transition:width 2s;
+}
+.widthincrese:hover
+{
+    width:300px;
+}
+
+.widt_height_increse
+{
+    height: 200px;
+    width:200px;
+    background-color:green;
+    transition:width 5s, height 4s;
+
+}
+
+.widt_height_increse:hover
+{
+    width: 300px;
+    height: 300px;
+}
+div
+{
+    width: 100px;
+    height: 100px;
+    transition: width 2s;
+    transition-delay: 1s;
+    background-color: yellow;
+}
+div:hover
+{
+    width: 300px;
+    height: 300px;
+}
+
+#linear{
+    transition-timing-function: linear;
+
+}
+#ease
+{
+    transition-timing-function: ease;
+
+}
+#ease-in
+{
+transition-timing-function: ease-in;
+}
+#ease-out
+{
+    transition-timing-function: ease-out;
+
+
+}
+#ease-in-out
+{
+    transition-timing-function: ease-in-out;
+
+}
