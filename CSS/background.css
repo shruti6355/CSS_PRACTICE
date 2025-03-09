@@ -1,0 +1,22 @@
+body{
+    background-color: palevioletred;
+    background-image: url("bg-image.jpg");
+    background-repeat:no-repeat;
+    background-position:top right;/*no-repeat,repeat-y,round,space*/
+    background-attachment:fixed;/*fixed,scroll*/
+    background-size:cover;/*auto,contain,cover*/
+    /*background: red,url("bg-image.jpg"),no-repeat,top right,fixed;*//*short hamd*/
+}
+h1{
+background-color: lightblue;
+}
+h2{
+background-color: rgba(255,0,0,0.5);
+
+
+
+}
+p{
+background-color: #0000ff;
+
+}
