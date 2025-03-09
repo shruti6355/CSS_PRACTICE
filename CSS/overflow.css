@@ -1,0 +1,46 @@
+.visible{
+    height: 200px;
+    width:200px ;
+    height: 65px;
+    border: 2px solid black;
+    overflow:visible;
+    background-color: pink;
+    margin: 200px;
+    float: left;
+}
+
+.hidden{
+    height: 200px;
+    width:200px ;
+    height: 65px;
+    border: 2px solid black;
+    overflow:hidden;
+    background-color: pink;
+    margin: 200px;
+    float: right;
+
+}
+
+.scroll{
+    height: 200px;
+    width:200px ;
+    height: 65px;
+    border: 2px solid black;
+    overflow:scroll;
+    background-color: pink;
+    margin: 200px;
+    float: none;
+
+}
+
+.auto{
+    height: 200px;
+    width:200px ;
+    height: 65px;
+    border: 2px solid black;
+    overflow:auto;
+    background-color: pink;
+    margin: 200px;
+    float: inline-end;
+
+}
