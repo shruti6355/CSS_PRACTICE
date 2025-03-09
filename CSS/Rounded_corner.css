@@ -1,0 +1,56 @@
+.corner1
+{
+    border-radius: 25px;
+  background: #73AD21;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+
+}
+.corner2
+{
+  border-radius: 25px;
+  border: 2px solid #73AD21;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+  margin-top:25px;
+
+}
+
+.rcorners1{
+    border-radius: 15px 50px 30px 5px;
+    height: 200px;
+    width: 150px;
+    padding: 10px;
+    margin: 10px;
+    background-color:aquamarine;
+    
+}
+.rcorners2{
+    border-radius: 15px 50px 30px ;
+    height: 200px;
+    width: 150px;
+    padding: 10px;
+    margin: 10px;
+    background-color: aquamarine;
+    
+}
+.rcorners3{
+    border-radius: 15px 50px ;
+    height: 200px;
+    width: 150px;
+    padding: 10px;
+    margin: 10px;
+    background-color: aquamarine;
+    
+}
+.rcorners4{
+    border-radius: 15px ;
+    height: 200px;
+    width: 150px;
+    padding: 10px;
+    margin: 10px;
+    background-color: aquamarine;
+    
+}
