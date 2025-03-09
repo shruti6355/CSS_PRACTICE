@@ -1,0 +1,156 @@
+.keyframe
+{
+    width: 100px;
+    height: 150px;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 4s;
+}
+.keyframe1
+{
+    width: 100px;
+    height: 150px;
+    background-color: red;
+    animation-name: example1;
+    animation-duration: 4s;
+}
+
+.keyframe2
+{
+    width: 100px;
+    height: 150px;
+    position: relative;
+    background-color: red;
+    animation-name: example2;
+    animation-duration: 4s;
+}
+
+@keyframes example2
+{
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:yellow; left:200px; top:0px;}
+    50%  {background-color:blue; left:200px; top:200px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+}
+
+.keyframe3
+{
+    width: 100px;
+    height: 150px;
+    position: relative;
+    background-color: red;
+    animation-name: example3;
+    animation-duration: 4s;
+    animation-delay: -2s;
+}
+
+@keyframes example3
+{
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:yellow; left:200px; top:0px;}
+    50%  {background-color:blue; left:200px; top:200px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+}
+
+.keyframe4
+{
+    width: 100px;
+    height: 150px;
+    position: relative;
+    background-color: red;
+    animation-name: example4;
+    animation-duration: 4s;
+    animation-delay: 2s;
+    animation-iteration-count: 5;
+}
+
+@keyframes example4
+{
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:yellow; left:200px; top:0px;}
+    50%  {background-color:blue; left:200px; top:200px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+}
+
+.keyframe5
+{
+    width: 100px;
+    height: 150px;
+    position: relative;
+    background-color: red;
+    animation-name: example5;
+    animation-duration: 1s;
+    animation-direction: reverse;
+}
+
+@keyframes example5
+{
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:yellow; left:200px; top:0px;}
+    50%  {background-color:blue; left:200px; top:200px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+}
+
+.keyframe6
+{
+    width: 100px;
+    height: 150px;
+    position: relative;
+    background-color: red;
+    animation-name: example6;
+    animation-duration: 1s;
+    animation-direction:alternate;
+}
+
+@keyframes example6
+{
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:yellow; left:200px; top:0px;}
+    50%  {background-color:blue; left:200px; top:200px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+}
+
+.keyframe7
+{
+    width: 100px;
+    height: 150px;
+    position: relative;
+    background-color: red;
+    animation-name: example7;
+    animation-duration: 1s;
+    animation-direction:alternate-reverse;
+}
+
+@keyframes example7
+{
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:yellow; left:200px; top:0px;}
+    50%  {background-color:blue; left:200px; top:200px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+}
+
+.keyframe8
+{
+    width: 100px;
+    height: 150px;
+    position: relative;
+    background-color: red;
+    animation-name: example8;
+    animation-duration: 1s;
+    animation-direction:normal;
+}
+
+@keyframes example8
+{
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:yellow; left:200px; top:0px;}
+    50%  {background-color:blue; left:200px; top:200px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+}
